@@ -9,26 +9,22 @@
 - 😄 Pronouns: Ele/Dele
 
 
-<!-- 1 -->
-![Mukito GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true&theme=dark)
+<!-- Colocando os dois primeiros widgets lado a lado com o mesmo tamanho -->
+<p align="center">
+  <!-- Widget 1: Estatísticas do GitHub com tema escuro -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true&theme=dark" width="45%" />
 
-<!-- 2 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />       
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true" />
-</picture>
-<!-- 3 -->
-<a href="https://github.com/Mukito/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukito&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <!-- Widget 2: Estatísticas do GitHub com tema adaptável -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true" width="45%" />
+</p>
 
+<!-- Colocando o terceiro widget centralizado abaixo dos dois primeiros -->
+<p align="center">
+  <!-- Widget 3: Estatísticas de Linguagens com link para o repositório -->
+  <a href="https://github.com/Mukito/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukito&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</p>
 
 Estudando principalmente **Python** 
 <div style="display: inline_block">
