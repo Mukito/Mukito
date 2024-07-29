@@ -1,22 +1,60 @@
-## Hi there 👋
+### Olá! 👋 Eu sou o Fabiano Santos
 
-<!--
-**Mukito/Mukito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Mukito/Mukito** é um repositório ✨ _especial_ ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudando Python...
+- 💬 Pergunte qual quer coisa ...
+- 📫 Contate-me no email: fabiano_s.ramos@hotmail.com
+- 😄 Pronouns: Ele/Dele
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
+
+<!-- 1 -->
+![Mukito GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true&theme=dark)
+
+<!-- 2 -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />       
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukito&show_icons=true" />
+</picture>
+<!-- 3 -->
+<a href="https://github.com/Mukito/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukito&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+Estudando principalmente **Python** 
+<div style="display: inline_block">
+  <img align="top" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>          
           
-          
+Conhecimento amplo nos demais
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
+  <img align="center" alt="Discord" height="30" width="40" src="https://devicons.railway.app/i/discord.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://devicons.railway.app/i/github-dark.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://devicons.railway.app/i/tux.svg">        
+  <img align="center" alt="Mysql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://devicons.railway.app/i/postgresql.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC8_WtWt8UBmJjNppThBcUbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fabiano100medo?igsh=MWRkYmJsNGtsYXJtag==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/mukitoprograma" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/HyKzgcBypA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mukitoprograma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabiano-santos-014645bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
