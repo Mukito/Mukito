@@ -49,5 +49,5 @@ Conhecimento amplo nos demais
 </div>
 
 
-![Snake animation](https://github.com/Mukito/Mukito/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Mukito/Mukito/blob/output/github-contribution-grid-snake.svg)
 
