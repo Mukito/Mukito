@@ -52,4 +52,5 @@ Conhecimento amplo nos demais
 
 
 <!--![Snake animation](https://github.com/Mukito/Mukito/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
