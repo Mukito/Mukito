@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: fabiano_s.ramos@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
-Estudando principalmente **Python** 
+Estudando principalmente **Python** **Inteligência Artificial**
 <div style="display: inline_block">
   <img align="top" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>          
