@@ -5,7 +5,7 @@
 - 🌱 Estudando Python...
 - 💬 Pergunte qual quer coisa ...
 - 📫 Contate-me no email: fabiano_s.ramos@hotmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Ele/Dele 
 
 Estudando principalmente **Python** **:** **Inteligência Artificial**
 <div style="display: inline_block">
