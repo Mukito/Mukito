@@ -25,6 +25,7 @@ Conhecimento amplo nos demais
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
   <img align="center" alt="Blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png">
   <img align="center" alt="Blender" height="30" width="40" src="https://avatars.githubusercontent.com/u/59452120?s=200&v=4">
+  <img align="center" alt="Vite" height="30" width="40" src="https://camo.githubusercontent.com/06c621f8ae3275609119497a65e1a4303662aa5ecb617189064a510494e74e79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f766974656a732f766974656a732d6f726967696e616c2e737667">
 <!--   [Excalidraw](https://avatars.githubusercontent.com/u/59452120?s=200&v=4) -->
 <!--   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png -->
 </div>
