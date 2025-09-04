@@ -26,7 +26,7 @@ Conhecimento amplo nos demais
   <img align="center" alt="Blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png">
   <img align="center" alt="Blender" height="30" width="40" src="https://avatars.githubusercontent.com/u/59452120?s=200&v=4">
   <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.com/i/vitejs.svg">
-  <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.com/i/docker.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://devicons.railway.com/i/docker.svg">
 <!--   [Excalidraw](https://avatars.githubusercontent.com/u/59452120?s=200&v=4) -->
 <!--   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png -->
 </div>
