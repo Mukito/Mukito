@@ -57,7 +57,7 @@ Conhecimento amplo nos demais
 
 <div>
   [Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-  <img src="[Snake animation]https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  ![Snake animation](https://github.com/Mukito/Mukito/blob/output/snake.svg)
 </div>  
 <!--![Snake animation](https://github.com/Mukito/Mukito/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
