@@ -53,9 +53,9 @@ Conhecimento amplo nos demais
   <a href="https://www.linkedin.com/in/fabiano-santos-014645bb" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-<!--![Snake animation](https://github.com/Mukito/Mukito/blob/output/snake.svg)-->
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Mukito/Mukito/output/snake.svg)
+![Snake animation](https://github.com/Mukito/Mukito/blob/output/snake.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/Mukito/Mukito/output/snake.svg)-->
 
 
