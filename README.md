@@ -54,10 +54,9 @@ Conhecimento amplo nos demais
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-  
-  ![Snake animation](https://github.com/Mukito/Mukito/blob/output/snake.svg)
-  
-<!--![Snake animation](https://github.com/Mukito/Mukito/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mukito/Mukito/blob/output/snake.svg)
+<!--![Snake animation](https://github.com/Mukito/Mukito/blob/output/github-contribution-grid-snake.svg)-->
 <!--[Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)-->
-<img src="https://github.com/LuigiGF/LuigiGF/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+<!--![Snake animation](https://raw.githubusercontent.com/Mukito/Mukito/output/snake.svg)-->
+
 
