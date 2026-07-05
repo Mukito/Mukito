@@ -33,12 +33,10 @@ Conhecimento amplo nos demais
 </div>
   
   ##
-<div>  
-  <a href="https://www.credly.com/badges/050adc41-1368-47eb-a656-d6c3da5553e8/public_url" target="_blank">
-    <img src="">
-  </a>
-</div> 
 <div> 
+  <a href="https://www.credly.com/users/fabiano-ramos.0d9d0db8" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile">
+  </a>
   <a href="https://www.youtube.com/channel/UC8_WtWt8UBmJjNppThBcUbw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
