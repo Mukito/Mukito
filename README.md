@@ -10,7 +10,14 @@
 Estudando principalmente **Python** **:** **Inteligência Artificial**
 <div style="display: inline_block">
   <img align="top" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>          
+</div><br>
+
+<div style="display: inline-block;">
+  <a href="https://www.credly.com/badges/050adc41-1368-47eb-a656-d6c3da5553e8" target="_blank">
+    <img align="top" alt="Credly Badge" height="40" width="40" src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white">
+    
+  </a>
+</div><br>
           
 Conhecimento amplo nos demais
 <div style="display: inline_block">
