@@ -23,7 +23,7 @@ Conhecimento amplo nos demais
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
-  <img align="center" alt="Blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png">
+  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
   <img align="center" alt="Blender" height="30" width="40" src="https://avatars.githubusercontent.com/u/59452120?s=200&v=4">
   <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.com/i/vitejs.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://devicons.railway.com/i/docker.svg">
@@ -33,7 +33,11 @@ Conhecimento amplo nos demais
 </div>
   
   ##
- 
+<div>  
+  <a href="https://www.credly.com/badges/050adc41-1368-47eb-a656-d6c3da5553e8/public_url" target="_blank">
+    <img src="">
+  </a>
+</div> 
 <div> 
   <a href="https://www.youtube.com/channel/UC8_WtWt8UBmJjNppThBcUbw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
