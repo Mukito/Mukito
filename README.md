@@ -8,16 +8,17 @@
 - 😄 Pronouns: Ele/Dele 
 
 Estudando principalmente **Python** **:** **Inteligência Artificial**
-<div style="display: inline_block">
-  <img align="top" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
-
-<div style="display: inline-block;">
-  <a href="https://www.credly.com/badges/050adc41-1368-47eb-a656-d6c3da5553e8" target="_blank">
-    <img align="top" alt="Credly Badge" height="40" width="40" src="python-essentials-2.png">
-    
-  </a>
-</div><br>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <div style="display: inline_block">
+    <img align="top" alt="Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  <div style="display: inline-block;">
+    <a href="https://www.credly.com/badges/050adc41-1368-47eb-a656-d6c3da5553e8" target="_blank">
+      <img align="top" alt="Credly Badge" height="100" width="100" src="python-essentials-2.png">
+    </a>
+  </div>
+</div>
           
 Conhecimento amplo nos demais
 <div style="display: inline_block">
